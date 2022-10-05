@@ -12,4 +12,18 @@
     "name": "Ana"
     "name": "Jorge"
   }
+   "turno": {
+    "title": "noite"
+    "title": "dia"
+  }
+ "movimento": {
+    "title": "baixo"
+    "title": "normal"
+    "title": "moderado"
+    "title": "alto"
+  }
+ "estrelas": {
+    "avaliacao": 5
+    "avaliacao": 6
+  }
 }
