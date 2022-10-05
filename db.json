@@ -1,5 +1,5 @@
 {
-  "postagens": [
+  "classes": [
     { "id": 1, "title": "Academia" },
     { "id": 2, "title": "Restaurante" },
     { "id": 3, "title": "Loja" }
