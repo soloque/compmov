@@ -25,7 +25,7 @@
   ],
   "comentarios": [
     { "id": 1, "avaliacao": 5, "comentario": "bom", "idPessoa": 1, "idLugar": 1 },
-    { "id": 1, "avaliacao": 2, "comentario": "ruim", "idPessoa": 2, "idLugar": 2 }
+    { "id": 2, "avaliacao": 2, "comentario": "ruim", "idPessoa": 2, "idLugar": 2 }
     
   ],
   
